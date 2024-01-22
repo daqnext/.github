@@ -5,7 +5,7 @@
 Meson Network is building a suite of critical web3 network infrastructure as well as the world’s first decentralized bandwidth exchange.
 
 Github:
-- Meson Network：https://github.com/meson-network 
+- Meson Network: https://github.com/meson-network 
 - daqnext: https://github.com/daqnext 
 - GaGaNode: https://github.com/gaganode
 
